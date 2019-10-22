@@ -18,7 +18,7 @@ Just run this command in terminal:
 1) **Question**: What algorithm do you use for this?
 **Answer**: For the hashing, I use SHA512. For public and private keys, I use RSA 2048.
 2) **Question**: After  I get the results (public key, signature, and data), what should I do?
-**Answer**: you can run the server for Internal Approval System. After that, you can use either Postman / cURL to send the POST request to [Approval Request endpoint](https://github.com/iamdejan/internal_approval_system/blob/master/system/urls.py#L26). You can refer to sample request [here](https://github.com/iamdejan/internal_approval_system/blob/master/system/views/project.py).
+**Answer**: you can run the server for Internal Approval System. After that, you can use either Postman / cURL to send the POST request to [Approval Request endpoint](https://github.com/iamdejan/internal_approval_system/blob/master/system/urls.py#L26). You can refer to sample request [here](https://github.com/iamdejan/internal_approval_system/blob/master/system/views/project.py#L13).
 
 ## Authors
 - [Giovanni Dejan](https://github.com/iamdejan)
